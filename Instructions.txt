@@ -1,18 +1,7 @@
-  Hey Buddy,
-
-  Amar torof theke ei chotto gift ta tor jonyo roilo.
-  Merry Christmas Suman!
-
-  Instructions :
+ Instructions :
 
   1. Click on a piece to show possible moves. As usual white goes first.
   2. Upon clicking a piece, it gets a activated and becomes blue, showing all the possible moves it can make. 
       All positions where the piece can move without taking an opponent piece ae shown in green. The positions
       where the piece can move by taking an opponent piece are highlighted in red.
   3. Please note that castling and pawn upgradation have not been implemented. 
-  4. Choose windows 64 or windows 32 bit version depending on your operating system. Then double click on Chess.exe to run the game.
-  5. Since the game file is an .exe file, antivirus software may interrupt. If that happens, please allow access. Preliminary scan is recommended.
-
-			ENJOY!!
-			AND Once Again
-				MERRY CHRISTMAS SUMAN
